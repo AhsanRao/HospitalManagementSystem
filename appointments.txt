@@ -1,0 +1,2 @@
+D382 P41 Lahore Physical 2 4 Confirmed 1000 EasyPaisa
+D381 P383 masood Physical 6 12 Pending 2000 EasyPaisa
